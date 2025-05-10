@@ -1,0 +1,15 @@
+.guarantee {
+  border: 1px dashed white;
+  background-color: #a7cece;
+  padding: 25px;
+  border-width:        1px;
+  border-style:        dashed;
+  padding:             25px; 
+  margin:              30px;
+}
+p { line: height 1.9em; ;
+    font-style: italic;
+/* 修正颜色值，有效的十六进制颜色值应为3位或6位 */
+color: #444444;
+font-family:Georgia, 'Times New Roman' ;
+}
